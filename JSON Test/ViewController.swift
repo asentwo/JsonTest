@@ -10,9 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let apiKey = "rKk09BXyG0kXF1lnde9GOltFq6FfvNQd"
+      var showToDetailSite: NSNumber = 0
+  
   override func viewDidLoad() {
     super.viewDidLoad()
     // Do any additional setup after loading the view, typically from a nib.
+    
+   //    let newURL = "http://api-public.guidebox.com/v1.43/us/\(apiKey)/show/\(showToDetailSite)"
+   //     getJSON(newURL)
+    
+    
   }
 
   override func didReceiveMemoryWarning() {

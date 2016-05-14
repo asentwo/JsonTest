@@ -1,0 +1,10 @@
+PODS:
+  - Gloss (0.7.3)
+
+DEPENDENCIES:
+  - Gloss (~> 0.7)
+
+SPEC CHECKSUMS:
+  Gloss: c97a95d6279821f35fa0138700bce0391bce87c1
+
+COCOAPODS: 0.39.0
